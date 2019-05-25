@@ -7,4 +7,4 @@ To run Project:
 -----------------------------------------------------------------------
 
 
-![PSD IMAGE:](/resources/web-page-2.png)
+![PSD IMAGE:](/data/React Redux App.png)
