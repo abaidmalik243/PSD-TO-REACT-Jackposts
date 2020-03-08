@@ -1,4 +1,4 @@
-# PSD-TO-REACT-Truckers 
+# PSD-TO-REACT-Jackposts 
 To run Project:
 
 1. yarn install or npm install
